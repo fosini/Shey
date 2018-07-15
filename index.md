@@ -1,12 +1,17 @@
-## Welcome to GitHub Pages
+## About Shey
 
-You can use the [editor on GitHub](https://github.com/fosini/shey/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Shey is a brand new social network that allows you to share and rewind your limited days on earth. With a modern mix of a diary and a photobook you can experience the world from different perspectives on a daily basis.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About us
 
-### Markdown
+Creator: Daniel F. Iyamu
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Contact:
+Social media: https://twitter.com/officialsheyapp
+Telephone +43 (AT) 56123516113
+
+
+
 
 ```markdown
 Syntax highlighted code block
