@@ -4,7 +4,7 @@ Shey is a social network that allows you to share and rewind your limited days o
 
 ## About us
 
-### Creator: Daniel F. Iyamu
+** Creator: ** Daniel F. Iyamu 
 
 Contact:
 
