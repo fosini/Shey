@@ -14,6 +14,4 @@ Shey is a social network that allows you to share and rewind your limited days o
 
 Having trouble with Shey? Messages and feedback is always welcome on twitter @officialsheyapp.
 
-
-
-Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can find our Terms of Services and Privacy-Policies [here](https://github.com/fosini/Shey-Legal) 
