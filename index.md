@@ -12,9 +12,9 @@ Shey is a social network that allows you to share and rewind your limited days o
 
 ## Privacy-Policy
 
-You can find our Privacy-Policy [here](https://github.com/fosini/Shey-Privacy) 
+You can find our Privacy-Policy [here](https://fosini.github.io/Shey-Privacy/) 
 
 ## Terms of Services
 
-You can find our Terms of Services [here](https://github.com/fosini/Shey-ToS) 
+You can find our Terms of Services [here](https://fosini.github.io/Shey-ToS/) 
 
