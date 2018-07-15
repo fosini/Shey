@@ -10,7 +10,7 @@ Shey is a social network that allows you to share and rewind your limited days o
 - Austria, 1210 Vienna, Herbergasse 2
 
 
-## Terms of Services and Privacy-Policy
+## Privacy-Policy
 
 You can find our Privacy-Policy [here](https://github.com/fosini/Shey-Privacy) 
 
