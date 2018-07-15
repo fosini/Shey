@@ -10,8 +10,11 @@ Shey is a social network that allows you to share and rewind your limited days o
 - Austria, 1210 Vienna, Herbergasse 2
 
 
-### Support or Contact
+## Terms of Services and Privacy-Policy
 
-Having trouble with Shey? Messages and feedback is always welcome on twitter @officialsheyapp.
+You can find our Privacy-Policy [here](https://github.com/fosini/Shey-Privacy) 
 
-You can find our Terms of Services and Privacy-Policies [here](https://github.com/fosini/Shey-Legal) 
+## Terms of Services
+
+You can find our Terms of Services [here](https://github.com/fosini/Shey-ToS) 
+
