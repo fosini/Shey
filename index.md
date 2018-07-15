@@ -1,40 +1,13 @@
-## About shey
+## About us
 
 Shey is a social network that allows you to share and rewind your limited days on earth. With a modern mix of a diary and a photobook you can experience the world from different perspectives on a daily basis.
-
-## About us
 
 **Creator:** Daniel F. Iyamu 
 **Contact:** 
 - Social media: https://twitter.com/officialsheyapp
 - Telephone +43 (AT) 56123516113
+- Austria, 1210 Vienna, Herbergasse 2
 
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fosini/shey/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
