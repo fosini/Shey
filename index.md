@@ -4,13 +4,10 @@ Shey is a social network that allows you to share and rewind your limited days o
 
 ## About us
 
-**Creator** Daniel F. Iyamu 
-
-Contact:
-
-Social media: https://twitter.com/officialsheyapp
-
-Telephone +43 (AT) 56123516113
+**Creator:** Daniel F. Iyamu 
+**Contact:** 
+- Social media: https://twitter.com/officialsheyapp
+- Telephone +43 (AT) 56123516113
 
 
 
